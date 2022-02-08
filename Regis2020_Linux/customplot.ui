@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>customplot</class>
+ <widget class="QMainWindow" name="customplot">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>598</width>
+    <height>370</height>
+   </rect>
+  </property>
+  <property name="font">
+   <font>
+    <pointsize>12</pointsize>
+   </font>
+  </property>
+  <property name="windowTitle">
+   <string>ГРАФИК</string>
+  </property>
+  <widget class="QWidget" name="centralwidget"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
